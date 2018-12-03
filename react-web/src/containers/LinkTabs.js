@@ -62,6 +62,7 @@ class LinkTabs extends Component {
                         <Tab label="FSA Knowledge Base" />
                         <Tab label="City by City" />
                         <Tab label="Finding Work & Opportunity" />
+                        <Tab label="Submit Knowledge Resource" />
                     </Tabs>
                 </AppBar>
                 {value === 0 && (
